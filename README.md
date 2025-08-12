@@ -48,3 +48,6 @@ Se utilizaron **LightGCN** y **BPR** sobre el dataset **MovieLens-100k**.
 - Esto implica un **trade-off** al elegir algoritmo:
   - Si importa más recomendar películas adecuadas: **BPR**
   - Si importa más predecir con exactitud la puntuación: **LightGCN**
+  
+## 📈 Logs
+Los logs de cada prueba se encuentran en la carpeta *saved*
